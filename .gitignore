@@ -150,3 +150,8 @@ media/
 
 sent_emails/
 
+
+# Static files directories
+static/
+static_dev/
+static_blogicum/
